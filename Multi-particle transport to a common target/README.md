@@ -1,1 +1,1 @@
-This folder consists of notebooks associated with transporting multiple inertial particles, of the same configuration, to a common target. Please use an older version of Julia, specifically Julia v1.4.2. 
+This folder consists of notebooks associated with transporting multiple inertial particles, of the same configuration, to a common target. 
